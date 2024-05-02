@@ -1,5 +1,5 @@
 # About
-A blog to document/showcase future projects or post random thoughts about life.
+A blog to document/showcase future projects or random thoughts about life.
 
 > ### Recommended songs to listen
 > - [My Way by Frank Sinatra](https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l?si=52ae87ef3b38431e)
