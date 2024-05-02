@@ -1,9 +1,9 @@
 ---
-title: Simple Guides for Fuwari
-published: 2023-09-01
+title: First Post!
+published: 2024-05-01
 description: "How to use this blog template."
-image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
+image: "./cover.jpg"
+tags: ["Random"]
 category: Guides
 draft: false
 ---
