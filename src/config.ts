@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
+    enable: true,
     src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   },
   favicon: [    // Leave this array empty to use the default favicon
@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Ethan Tram',
-  bio: 'High schooler fueled by curiosity.',
+  bio: 'A High schooler fueled by curiosity.',
   links: [
     {
       name: 'Linkedin',
@@ -55,7 +55,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Instagram',
       icon: 'fa6-brands:instagram',
-      url: 'hhttps://www.instagram.com/ethantramcreations',
+      url: 'https://www.instagram.com/ethantramcreations',
     },
     {
       name: 'GitHub',
