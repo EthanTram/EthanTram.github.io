@@ -1,7 +1,6 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+A blog to document/showcase future projects or post random thoughts about life.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### Recommended songs to listen
+> - [My Way by Frank Sinatra](https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l?si=52ae87ef3b38431e)
+> - [What A Wonderful World by Louis Armstrong](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9?si=58c8daee75104f6d)
